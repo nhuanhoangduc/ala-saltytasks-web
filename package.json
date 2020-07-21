@@ -12,6 +12,10 @@
         "test": "run-p --race dev cy:run"
     },
     "dependencies": {
+        "@web/components": "./src/components",
+        "@web/graphql": "./src/graphql",
+        "@web/pages": "./src/pages",
+        "@web/stores": "./src/stores",
         "compression": "^1.7.1",
         "polka": "next",
         "sirv": "^0.4.0"
