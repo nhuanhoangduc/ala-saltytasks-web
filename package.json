@@ -16,6 +16,7 @@
         "@web/graphql": "./src/graphql",
         "@web/pages": "./src/pages",
         "@web/stores": "./src/stores",
+        "@web/forms": "./src/forms",
         "compression": "^1.7.1",
         "polka": "next",
         "sirv": "^0.4.0"
