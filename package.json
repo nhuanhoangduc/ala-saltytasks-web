@@ -16,6 +16,7 @@
         "@web/forms": "./src/forms",
         "@web/graphql": "./src/graphql",
         "compression": "^1.7.1",
+        "lodash": "^4.17.19",
         "polka": "next",
         "sirv": "^0.4.0"
     },
